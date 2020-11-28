@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.exe.config
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.exe
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\bin\Debug\CalculadoraDeBhaskara.pdb
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.Form1.resources
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.Properties.Resources.resources
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.exe
+C:\Users\Daniel\source\repos\CalculadoraDeBhaskara\CalculadoraDeBhaskara\obj\Debug\CalculadoraDeBhaskara.pdb
